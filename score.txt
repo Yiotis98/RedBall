@@ -1,0 +1,4 @@
+Position	Name	Score
+1	Michalis	1998
+2	Panayiotis	420
+3	Kypros	25
